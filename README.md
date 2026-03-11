@@ -26,20 +26,6 @@ Technical University of Cluj-Napoca | 2023 – present
 - PLC Programming (basic)
 - SQL
 - Git
-
----
-
-## 📂 Projects
-
-### 🚗 Adaptive Cruise Control Simulation – Python
-Developed a Python simulation of an adaptive cruise control system that automatically adjusts vehicle speed to maintain a safe distance from a leading vehicle. Implemented object detection from input images and assigned numeric labels to identify vehicles in front of the system.
-
-### 📊 System Identification Projects – MATLAB
-Modeled and identified dynamic systems (hydraulic, pendulum) using regression, frequency analysis, and parametric methods (ARMAX, Output-Error). Applied Chirp and SPAB excitation signals and achieved a mean prediction error below 9%.
-
-### ☕ Java Projects – Object-Oriented Programming
-Developed multiple Java applications applying OOP principles (abstraction, inheritance, polymorphism). Implemented modular architectures using interfaces and abstract classes, modeling real-world systems such as device management and sensor monitoring.
-
 ---
 
 ## 📫 Contact
